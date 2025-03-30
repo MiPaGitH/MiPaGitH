@@ -1,4 +1,4 @@
-Just following my passion
+Just following my passion - 
 C code that does something usefull
 
 <!---
